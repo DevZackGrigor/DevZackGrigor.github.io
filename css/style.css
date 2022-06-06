@@ -324,6 +324,20 @@ body{
     border: 2px solid #7d5e52;
 }
 
+#contact .form-subgroup{
+    display: flex;
+    padding: 0.5rem;
+    align-content: center;
+}
+
+#contact .form-subgroup label{
+    margin-top: 10px;
+}
+
+#contact .form-subgroup input{
+    margin-right: 6rem;
+}
+
 footer {
     padding:2.5rem;
 }
